@@ -1,6 +1,8 @@
 # mixnhreg
 Mixtures of Non-Homogenous Linear Regression Models Use mixnhreg With (In) R Software
 
+https://www.youtube.com/watch?v=-BTp2cN2fUs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
